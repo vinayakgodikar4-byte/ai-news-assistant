@@ -1,0 +1,8 @@
+streamlit
+transformers
+datasets
+nltk
+rouge-score
+scikit-learn
+pandas
+numpy
